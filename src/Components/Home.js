@@ -15,9 +15,9 @@ function Home() {
       <div className="logo">
         <h3 className='mainTitle'>Voice Assisted Face sketching <br /> using GAN and NLP</h3>
       </div>
-      <div className='rightComponent'>
+      {/* <div className='rightComponent'>
         <img className='rightComponent' src={require("../Images/hacker-Green.png")} alt="" />
-      </div>
+      </div> */}
       <Row>
         <Col xs={2}>
           <div className="leftComponent">
