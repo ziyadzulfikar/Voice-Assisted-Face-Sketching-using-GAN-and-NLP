@@ -4,8 +4,10 @@ import '../../App.css'
 function Close() {
   return (
     <div>
-        <h1 className='mid'>Close Section</h1>
+    <div className='mid'>
+      <h1 className='textMain'>Thank You</h1>
     </div>
+</div>
   )
 }
 
